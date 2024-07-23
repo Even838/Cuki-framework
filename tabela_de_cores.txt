@@ -1,3 +1,4 @@
+CORES 
 
 azul
 cazul
@@ -12,6 +13,11 @@ verdec
 verdefloresta
 
 vermelho
+vermelhofogo
+vermelhoopaco
+vermelhoc
+
+roxoc
 
 rosa
 rosaopaco
