@@ -1,1 +1,1 @@
-console.log("cuki 0.0.1)
+console.log("cuki 1.5")
